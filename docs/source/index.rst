@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Mibet – Điểm đến hàng đầu cho cá cược bóng đá trực tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Mibet <https://mibet.ink/>`_, một cái tên uy tín trong lĩnh vực cá cược trực tuyến, đã khẳng định được vị thế của mình trên thị trường quốc tế từ năm 2008. Mibet chú trọng đến bảo mật với công nghệ tiên tiến và hỗ trợ khách hàng 24/7, đảm bảo sự hài lòng và an toàn cho người chơi. Giao diện dễ sử dụng cùng với dịch vụ khách hàng chuyên nghiệp là điểm cộng lớn, cùng với các chương trình ưu đãi và hoa hồng cao. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Mibet cũng nổi bật với các trò chơi đa dạng từ cá độ thể thao đến casino và các game đổi thưởng hấp dẫn. Với sự phát triển không ngừng và đội ngũ hỗ trợ tận tình, Mibet đã chứng tỏ mình là một trong những nhà cái hàng đầu tại Việt Nam. Để trải nghiệm dịch vụ chất lượng và các ưu đãi độc quyền, hãy đăng ký ngay hôm nay và khám phá thế giới cá cược đầy thú vị tại Mibet.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 156/1/12/4A Đ. Cộng Hòa, Phường 12, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0862356480. 
 
-.. toctree::
+Email: info@mibet.ink. 
 
-   usage
-   api
+Website: https://mibet.ink/
+
+#mibet #nhacaimibet #trangchumibet #dangkymibet #linkmibet
